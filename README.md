@@ -1,6 +1,6 @@
 Hi there!
 
-I'm Sayonara (but you can call me Sayo), a CS student passionate about technology, coding, and learning new things. I'm also kind of a study nerd... uuuuuh 😭✌️
+I'm Sayonara (but you can call me Sayo), a CS student passionate about tech, coding, and learning new things. I'm also kind of a study nerd... uuuuuh 😭✌️
 
 Here, you'll find some of the cool projects I work on in my free time.
 
