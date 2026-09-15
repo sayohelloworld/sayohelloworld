@@ -14,7 +14,5 @@ But programming isn't all I do! I'm also into content creation, drawing, and vid
 <img src="https://img.shields.io/github/stars/sayohelloworld?style=for-the-badge&label=STARS&logo=github&logoColor=white&labelColor=000000&color=fcec03">
 
 </div>
-## Skills
-<br/>
+# Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-</div>
