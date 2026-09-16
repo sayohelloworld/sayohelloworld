@@ -10,7 +10,7 @@ When I'm not coding, I also enjoy **content creation, drawing, and video editing
 
 ## ˗ˏˋ Tech Stack
 
-
+<a href="https://stack.rajinkhan.com/?i=python%2Cnodedotjs%2Cjavascript%2Chtml5%2Ccss%2Ctypescript%2Cocaml%2Cgit%2Cgithub%2Cfigma%2Clua%2Caftereffects%2Cpremierepro%2Cleetcode%2Cvscode&t=transparent&s=fast"><img src="https://stack.rajinkhan.com/v1/stack.svg?i=python%2Cnodedotjs%2Cjavascript%2Chtml5%2Ccss%2Ctypescript%2Cocaml%2Cgit%2Cgithub%2Cfigma%2Clua%2Caftereffects%2Cpremierepro%2Cleetcode%2Cvscode&t=transparent&s=fast" alt="Tech stack: Python, Node.js, JavaScript, HTML5, CSS, TypeScript, OCaml, Git, GitHub, Figma, Lua, Adobe After Effects, Adobe Premiere Pro, LeetCode, Visual Studio Code"></a>
 
 ---
 
@@ -41,7 +41,3 @@ When I'm not coding, I also enjoy **content creation, drawing, and video editing
 <img src="https://komarev.com/ghpvc/?username=sayohelloworld&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000&color=3da5ff">
 <img src="https://img.shields.io/github/followers/sayohelloworld?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&labelColor=000000&color=ff6666">
 <img src="https://img.shields.io/github/stars/sayohelloworld?style=for-the-badge&label=STARS&logo=github&logoColor=white&labelColor=000000&color=fcec03">
-
----
-
-> **Always learning, always building.**
