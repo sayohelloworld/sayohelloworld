@@ -1,4 +1,4 @@
-# Hi there! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/lottie.json" alt="Animated Emoji" width="50" height="50">
+# Hi there! 👋
 
 I'm **Sayonara** — but you can call me **Sayo**.
 
