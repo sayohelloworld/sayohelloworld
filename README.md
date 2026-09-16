@@ -1,16 +1,47 @@
-Hi there!
+# Hi there!
 
-I'm Sayonara (but you can call me Sayo), a CS student passionate about tech, coding, and learning new things. I'm also kind of a study nerd... uuuuuh 😭✌️
+I'm **Sayonara** — but you can call me **Sayo**.
 
-Here, you'll find some of the cool projects I work on in my free time.
+I'm a **CS student** passionate about programming, technology, and building things. I'm currently studying Computer Science while exploring different areas of software development and trying to improve my skills through personal projects.
 
-But programming isn't all I do! I'm also into content creation, drawing, and video editing.
+When I'm not coding, I also enjoy **content creation, drawing, and video editing**.
 
-**Don't forget to follow me 💪**
-<br/>
+---
+
+## ˗ˏˋ Tech Stack
+
+
+
+---
+
+## ˗ˏˋ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sayohelloworld&show_icons=true&hide_border=true&count_private=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayohelloworld&layout=compact&hide_border=true" height="170">
+
+</div>
+
+---
+
+## ˗ˏˋ GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayohelloworld&hide_border=true">
+
+</div>
+
+---
+
+## Profile
 
 <img src="https://komarev.com/ghpvc/?username=sayohelloworld&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000&color=3da5ff">
 <img src="https://img.shields.io/github/followers/sayohelloworld?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&labelColor=000000&color=ff6666">
 <img src="https://img.shields.io/github/stars/sayohelloworld?style=for-the-badge&label=STARS&logo=github&logoColor=white&labelColor=000000&color=fcec03">
 
-</div>
+---
+
+> **Always learning, always building.**
